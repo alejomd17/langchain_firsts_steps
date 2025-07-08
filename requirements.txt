@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+transformers
+einops
+accelerate
+bitsandbytes
+langchain_ollama
+langchain_openai
+streamlit
+langchain-huggingface
+dotenv
+langchain_chroma
+langchainhub
+langchain_community
+
+langchain-huggingface langchain_community
